@@ -1,0 +1,33 @@
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\FutronicApplication.exe.config
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\FutronicApplication.exe
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\FutronicApplication.pdb
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\libcairo-2.dll
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\ftrScanAPI.dll
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\FutronicApplication.exe
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\FutronicApplication.pdb
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\BPPTAfis.dll
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\FutronicDrv.dll
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\BPPTAfis.pdb
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\FutronicDrv.pdb
+D:\AFIS\Pameran\FutronicApplication\bin\Debug\SourceAFIS.xml
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\MainApplication.csprojResolveAssemblyReference.cache
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\Neurotec.Gui.BusyForm.resources
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\FutronicApplication.MainForm.resources
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\FutronicApplication.Properties.Resources.resources
+D:\AFIS\Pameran\FutronicApplication\obj\x86\Debug\MainApplication.csproj.GenerateResource.Cache
+G:\eKTP\Pameran2\FutronicApplication\bin\Debug\FutronicApplication.exe.config
+G:\eKTP\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.exe
+G:\eKTP\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\Neurotec.Gui.BusyForm.resources
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.MainForm.resources
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\MainApplication.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\ftrScanAPI.dll
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\FutronicDrv.dll
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\FutronicDrv.pdb
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\SourceAFIS.xml
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\FutronicApplication.exe.config
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\bin\Debug\FutronicApplication.exe
+\\vmware-host\Shared Folders\Desktop\yuki\@FUTRONIC\Pameran2\FutronicApplication\obj\x86\Debug\FutronicApplication.exe

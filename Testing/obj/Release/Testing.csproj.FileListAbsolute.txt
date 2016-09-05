@@ -1,0 +1,122 @@
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\Testing.exe
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\Testing.pdb
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.exe
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\obj\Release\Testing.pdb
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.Imaging.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.Math.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.xml
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.Imaging.xml
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\Testing\bin\Release\AForge.Math.xml
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\Testing.exe.config
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\Testing.exe
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\Testing.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.exe
+\\vmware-host\Shared Folders\Desktop\Defi\IrisBPPT\Testing\obj\Release\Testing.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.exe.config
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.exe
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\FutronicApplication.exe
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.xml
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.exe
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.exe.config
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.exe
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.exe
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\Testing.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\FutronicApplication.exe
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\SourceAFIS.xml
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\bin\Release\FutronicApplication.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.exe.config
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.exe.config
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.pdb

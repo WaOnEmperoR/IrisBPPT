@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53AB6749-5374-4AE9-ABF1-9B53767AF07A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BiometriBPPT</RootNamespace>
+    <AssemblyName>BiometriBPPT</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="gtk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\GtkSharp\2.12\lib\gtk-sharp-2.0\gtk-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cairo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\GtkSharp\2.12\lib\Mono.Cairo\Mono.Cairo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bppt\ptik\biometric\entity\AssertException.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\Const.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\Iris.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\MathBppt.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\MatrixBppt.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\MyImage.cs" />
+    <Compile Include="bppt\ptik\biometric\entity\MyImgType.cs" />
+    <Compile Include="bppt\ptik\biometric\image\CCE.cs" />
+    <Compile Include="bppt\ptik\biometric\image\EdgeDetection.cs" />
+    <Compile Include="bppt\ptik\biometric\image\HoughTransform.cs" />
+    <Compile Include="bppt\ptik\biometric\image\IntensityTransform.cs" />
+    <Compile Include="bppt\ptik\biometric\image\MorphProcessing.cs" />
+    <Compile Include="bppt\ptik\biometric\image\Padding.cs" />
+    <Compile Include="bppt\ptik\biometric\image\Preprocessing.cs" />
+    <Compile Include="bppt\ptik\biometric\image\SpatialFiltering.cs" />
+    <Compile Include="bppt\ptik\biometric\image\Thresholding.cs" />
+    <Compile Include="bppt\ptik\biometric\iris\IrisProcessing.cs" />
+    <Compile Include="bppt\ptik\biometric\iris\MainIris.cs" />
+    <Compile Include="bppt\ptik\biometric\utility\BitmapPgm.cs" />
+    <Compile Include="bppt\ptik\biometric\utility\DebugImage.cs" />
+    <Compile Include="bppt\ptik\biometric\utility\PGM.cs" />
+    <Compile Include="bppt\ptik\biometric\xentity\CosWavelet.cs" />
+    <Compile Include="bppt\ptik\biometric\xentity\Filter.cs" />
+    <Compile Include="bppt\ptik\biometric\xentity\Sinusoidal.cs" />
+    <Compile Include="bppt\ptik\biometric\xentity\SinWavelet.cs" />
+    <Compile Include="bppt\ptik\biometric\xfilter\Gaussian.cs" />
+    <Compile Include="bppt\ptik\biometric\xprocessing\GaborToImage.cs" />
+    <Compile Include="bppt\ptik\biometric\xprocessing\GaborToPixel.cs" />
+    <Compile Include="bppt\ptik\biometric\xprocessing\ProcessIris.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

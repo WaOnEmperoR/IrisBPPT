@@ -1,0 +1,25 @@
+D:\BPPT\2016\MultimodalBiometricsAuthentication\LatestCode\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+D:\BPPT\2016\MultimodalBiometricsAuthentication\LatestCode\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+D:\BPPT\2016\MultimodalBiometricsAuthentication\LatestCode\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache
+D:\BPPT\2016\MultimodalBiometricsAuthentication\LatestCode\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+D:\BPPT\2016\MultimodalBiometricsAuthentication\LatestCode\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\BPPT\2016\APLIKASI_AFIS\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+D:\BPPT\2016\APLIKASI_AFIS\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+D:\BPPT\2016\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+D:\BPPT\2016\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\BPPT\2016\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache
+C:\Users\Rachmawan\Downloads\APLIKASI_AFIS\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+C:\Users\Rachmawan\Downloads\APLIKASI_AFIS\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+C:\Users\Rachmawan\Downloads\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache
+C:\Users\Rachmawan\Downloads\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+C:\Users\Rachmawan\Downloads\APLIKASI_AFIS\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache

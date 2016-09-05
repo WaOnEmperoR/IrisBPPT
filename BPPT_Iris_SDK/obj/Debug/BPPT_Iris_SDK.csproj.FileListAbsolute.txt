@@ -1,0 +1,5 @@
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\BPPT_Iris_SDK\bin\Debug\BPPT_Iris_SDK.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\BPPT_Iris_SDK\bin\Debug\BPPT_Iris_SDK.pdb
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\BPPT_Iris_SDK\obj\Debug\BPPT_Iris_SDK.csprojResolveAssemblyReference.cache
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\BPPT_Iris_SDK\obj\Debug\BPPT_Iris_SDK.dll
+C:\Users\Rully Kusumajaya\documents\visual studio 2012\Projects\IrisBPPT\BPPT_Iris_SDK\obj\Debug\BPPT_Iris_SDK.pdb

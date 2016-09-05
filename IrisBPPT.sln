@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPPT_Iris_SDK", "BPPT_Iris_SDK\BPPT_Iris_SDK.csproj", "{AF571B86-9E20-4D6A-BB7F-821974394AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{65578D87-F36D-4E90-B3D2-3CE848D07C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometriBPPT", "BiometriBPPT\BiometriBPPT.csproj", "{53AB6749-5374-4AE9-ABF1-9B53767AF07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceSystem", "AttendanceSystem\AttendanceSystem.csproj", "{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApplication", "FutronicApplication\MainApplication.csproj", "{CF620E1F-F135-4696-9480-82181C2FFD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceAFIS", "SourceAFIS\SourceAFIS.csproj", "{35075900-98B2-4F73-A8FE-11E0D2182689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPPT_IC_SDK", "BPPT_IC_SDK\BPPT_IC_SDK.csproj", "{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AF571B86-9E20-4D6A-BB7F-821974394AB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{65578D87-F36D-4E90-B3D2-3CE848D07C02}.Release|x86.ActiveCfg = Release|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{53AB6749-5374-4AE9-ABF1-9B53767AF07A}.Release|x86.ActiveCfg = Release|Any CPU
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|x86.ActiveCfg = Debug|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Debug|x86.Build.0 = Debug|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|x86.ActiveCfg = Release|x86
+		{E30E6C95-FF07-4952-8A82-8DB2ABE2E3F9}.Release|x86.Build.0 = Release|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Debug|x86.ActiveCfg = Debug|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Debug|x86.Build.0 = Debug|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Release|Any CPU.ActiveCfg = Release|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Release|x86.ActiveCfg = Release|x86
+		{CF620E1F-F135-4696-9480-82181C2FFD28}.Release|x86.Build.0 = Release|x86
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{35075900-98B2-4F73-A8FE-11E0D2182689}.Release|x86.ActiveCfg = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Debug|x86.Build.0 = Debug|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|x86.ActiveCfg = Release|Any CPU
+		{784C60A5-E501-4C21-AE9B-7AB8F8A8D19D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

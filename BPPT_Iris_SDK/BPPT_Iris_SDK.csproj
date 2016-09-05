@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF571B86-9E20-4D6A-BB7F-821974394AB9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BPPT_Iris_SDK</RootNamespace>
+    <AssemblyName>BPPT_Iris_SDK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Border.cs" />
+    <Compile Include="ConditionalDilation.cs" />
+    <Compile Include="Extract.cs" />
+    <Compile Include="Extract_02.cs" />
+    <Compile Include="ExtraProcessing.cs" />
+    <Compile Include="GaborFilter.cs" />
+    <Compile Include="ErotionDilation.cs" />
+    <Compile Include="FourierDescriptor.cs" />
+    <Compile Include="HistogramEqualization.cs" />
+    <Compile Include="HoleFilling.cs" />
+    <Compile Include="id\go\bppt\biometri\iris\image\filters\Median.cs" />
+    <Compile Include="id\go\bppt\biometri\iris\image\LockBitmap.cs" />
+    <Compile Include="id\go\bppt\biometri\iris\image\utils\PGMUtil.cs" />
+    <Compile Include="id\go\bppt\biometri\iris\processing\Histogram.cs" />
+    <Compile Include="ImageRepresentation_02.cs" />
+    <Compile Include="ImageRepresentation.cs" />
+    <Compile Include="ImageRepresentation_03.cs" />
+    <Compile Include="ImageRepresentation_Import.cs" />
+    <Compile Include="IntensityTransformation.cs" />
+    <Compile Include="IrisCode.cs" />
+    <Compile Include="IrisTemplate.cs" />
+    <Compile Include="Matching.cs" />
+    <Compile Include="Otsu.cs" />
+    <Compile Include="PGMConverter.cs" />
+    <Compile Include="PGM_Iris.cs" />
+    <Compile Include="Projection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="Verify.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BiometriBPPT\BiometriBPPT.csproj">
+      <Project>{53ab6749-5374-4ae9-abf1-9b53767af07a}</Project>
+      <Name>BiometriBPPT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BPPT_IC_SDK\BPPT_IC_SDK.csproj">
+      <Project>{784c60a5-e501-4c21-ae9b-7ab8f8a8d19d}</Project>
+      <Name>BPPT_IC_SDK</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

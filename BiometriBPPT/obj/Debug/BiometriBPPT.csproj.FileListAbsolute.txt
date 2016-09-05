@@ -1,0 +1,10 @@
+C:\Users\HP\documents\visual studio 2010\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\BiometriBPPT\BiometriBPPT\bin\Debug\BiometriBPPT.dll
+C:\Users\HP\documents\visual studio 2010\Projects\BiometriBPPT\BiometriBPPT\bin\Debug\BiometriBPPT.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.dll
+C:\Users\HP\documents\visual studio 2010\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BiometriBPPT\BiometriBPPT\obj\Debug\BiometriBPPT.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BiometriBPPT\BiometriBPPT\bin\Debug\BiometriBPPT.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\BiometriBPPT\BiometriBPPT\bin\Debug\BiometriBPPT.pdb

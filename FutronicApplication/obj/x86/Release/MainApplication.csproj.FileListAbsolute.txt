@@ -1,0 +1,102 @@
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.exe.config
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\libcairo-2.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\ftrScanAPI.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.exe
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.pdb
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\BPPTAfis.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicDrv.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\SourceAFIS.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\BPPTAfis.pdb
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicDrv.pdb
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\SourceAFIS.xml
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\NBIS.dll
+C:\Users\Rully Kusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\NBIS.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.exe.config
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\libcairo-2.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\ftrScanAPI.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.exe
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicApplication.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\BPPTAfis.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicDrv.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\NBIS.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\SourceAFIS.dll
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\BPPTAfis.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\FutronicDrv.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\NBIS.pdb
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\bin\Release\SourceAFIS.xml
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+C:\Users\RullyKusumajaya\Documents\Visual Studio 2012\Projects\Pameran2\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe.config
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\BPPTAfis.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicDrv.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.dll
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.pdb
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.xml
+\\vmware-host\Shared Folders\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe.config
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\BPPTAfis.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\FutronicDrv.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.dll
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.pdb
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.xml
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+C:\Users\Biometrik-PC3\Desktop\Defi\LatestCode\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe.config
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\BPPTAfis.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicDrv.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe.config
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\BPPTAfis.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\FutronicDrv.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
