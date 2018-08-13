@@ -48,8 +48,8 @@ namespace BPPT_Iris_SDK
             filePath = pgmConverter.PgmFilePath + pgmConverter.PgmFileName;
             fileName = pgmConverter.PgmFileName;
 
-            Console.WriteLine("File Path : " + filePath);
-            Console.WriteLine("File Name : " + fileName);
+            //Console.WriteLine("File Path : " + filePath);
+            //Console.WriteLine("File Name : " + fileName);
 
             g_Pgm = new PGM_Iris(filePath);
             g_BmpImage = PGM_Iris.CreateBitmap(g_Pgm);
@@ -79,8 +79,8 @@ namespace BPPT_Iris_SDK
             filePath = "input_iris.pgm";
             fileName = "input_iris.png";
 
-            Console.WriteLine("File Path : " + filePath);
-            Console.WriteLine("File Name : " + fileName);
+            //Console.WriteLine("File Path : " + filePath);
+            //Console.WriteLine("File Name : " + fileName);
 
             g_Pgm = new PGM_Iris(filePath);
             g_BmpImage = PGM_Iris.CreateBitmap(g_Pgm);
@@ -239,8 +239,21 @@ namespace BPPT_Iris_SDK
             }
             g_PosHeight2 = g_PosHeight + 40;
             g_PosWidth2 = g_PosWidth;
+            bool analyzed = false;
 
-            ConditionalDilation.dilationContour(g_Pixel2, g_Pixel3, 160, g_PosWidth, g_PosHeight, 20, "pupil", folderResult);
+            int [,] pixel_analysis = new int[g_ImageHeight, g_ImageWidth];
+
+            ConditionalDilation.dilationContour(g_Pixel2, g_Pixel3, 160, g_PosWidth, g_PosHeight, 20, "pupil", folderResult, pixel_analysis);
+
+            while (pixel_analysis[g_PosHeight2, g_PosWidth2] == 128)
+            {
+                g_PosHeight2 += 2;
+                analyzed = true;
+            }
+
+            // Ensuring safety
+            if (analyzed)
+                g_PosHeight2 += 4;
 
             //Console.WriteLine("Folder Result : " + folderResult);
             //Projection.generateImageInitiatePoint(folderResult + "\\initial_point", g_FilePath);
@@ -258,7 +271,7 @@ namespace BPPT_Iris_SDK
                 }
             }
 
-            ConditionalDilation.dilationContour(g_Pixel2, g_Pixel3, 160, g_PosWidth2, g_PosHeight2, 45, "iris", folderResult);
+            ConditionalDilation.dilationContour(g_Pixel2, g_Pixel3, 160, g_PosWidth2, g_PosHeight2, 45, "iris", folderResult, pixel_analysis);
 
             try
             {
@@ -307,6 +320,7 @@ namespace BPPT_Iris_SDK
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Exception..." + ex.Message);
             }
 
             try
@@ -342,6 +356,7 @@ namespace BPPT_Iris_SDK
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Exception..." + ex.Message);
             }
 
             int[,] iniPointPupil = new int[g_ImageHeight, g_ImageWidth];

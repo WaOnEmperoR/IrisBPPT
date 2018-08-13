@@ -23,3 +23,8 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BPPT_IC_SDK\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BPPT_IC_SDK\obj\Release\BPPT_IC_SDK.csprojResolveAssemblyReference.cache

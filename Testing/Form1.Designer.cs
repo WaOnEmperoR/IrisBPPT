@@ -63,6 +63,7 @@
             this.buttonSaveFingerprint = new System.Windows.Forms.Button();
             this.buttonChooseFinger = new System.Windows.Forms.Button();
             this.btn_Test = new System.Windows.Forms.Button();
+            this.btn_Extract_Single = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLeftImage)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxRightImage)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -82,7 +83,7 @@
             // textBoxEmployeeNumber
             // 
             this.textBoxEmployeeNumber.Location = new System.Drawing.Point(172, 101);
-            this.textBoxEmployeeNumber.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBoxEmployeeNumber.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxEmployeeNumber.Name = "textBoxEmployeeNumber";
             this.textBoxEmployeeNumber.Size = new System.Drawing.Size(45, 20);
             this.textBoxEmployeeNumber.TabIndex = 1;
@@ -101,7 +102,7 @@
             // buttonChooseFile
             // 
             this.buttonChooseFile.Location = new System.Drawing.Point(33, 155);
-            this.buttonChooseFile.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonChooseFile.Margin = new System.Windows.Forms.Padding(2);
             this.buttonChooseFile.Name = "buttonChooseFile";
             this.buttonChooseFile.Size = new System.Drawing.Size(123, 31);
             this.buttonChooseFile.TabIndex = 3;
@@ -112,7 +113,7 @@
             // buttonScanIris
             // 
             this.buttonScanIris.Location = new System.Drawing.Point(161, 155);
-            this.buttonScanIris.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonScanIris.Margin = new System.Windows.Forms.Padding(2);
             this.buttonScanIris.Name = "buttonScanIris";
             this.buttonScanIris.Size = new System.Drawing.Size(123, 31);
             this.buttonScanIris.TabIndex = 4;
@@ -124,7 +125,7 @@
             // 
             this.pictureBoxLeftImage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBoxLeftImage.Location = new System.Drawing.Point(33, 217);
-            this.pictureBoxLeftImage.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBoxLeftImage.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBoxLeftImage.Name = "pictureBoxLeftImage";
             this.pictureBoxLeftImage.Size = new System.Drawing.Size(321, 241);
             this.pictureBoxLeftImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -135,7 +136,7 @@
             // 
             this.pictureBoxRightImage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBoxRightImage.Location = new System.Drawing.Point(377, 217);
-            this.pictureBoxRightImage.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBoxRightImage.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBoxRightImage.Name = "pictureBoxRightImage";
             this.pictureBoxRightImage.Size = new System.Drawing.Size(321, 241);
             this.pictureBoxRightImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -167,7 +168,7 @@
             // buttonProcess
             // 
             this.buttonProcess.Location = new System.Drawing.Point(288, 155);
-            this.buttonProcess.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonProcess.Margin = new System.Windows.Forms.Padding(2);
             this.buttonProcess.Name = "buttonProcess";
             this.buttonProcess.Size = new System.Drawing.Size(121, 31);
             this.buttonProcess.TabIndex = 9;
@@ -198,7 +199,7 @@
             // buttonEnrollFingerprint
             // 
             this.buttonEnrollFingerprint.Location = new System.Drawing.Point(413, 155);
-            this.buttonEnrollFingerprint.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonEnrollFingerprint.Margin = new System.Windows.Forms.Padding(2);
             this.buttonEnrollFingerprint.Name = "buttonEnrollFingerprint";
             this.buttonEnrollFingerprint.Size = new System.Drawing.Size(121, 31);
             this.buttonEnrollFingerprint.TabIndex = 12;
@@ -209,7 +210,7 @@
             // buttonVerifyFingerprint
             // 
             this.buttonVerifyFingerprint.Location = new System.Drawing.Point(537, 155);
-            this.buttonVerifyFingerprint.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonVerifyFingerprint.Margin = new System.Windows.Forms.Padding(2);
             this.buttonVerifyFingerprint.Name = "buttonVerifyFingerprint";
             this.buttonVerifyFingerprint.Size = new System.Drawing.Size(121, 31);
             this.buttonVerifyFingerprint.TabIndex = 13;
@@ -221,7 +222,7 @@
             // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox1.Location = new System.Drawing.Point(719, 216);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(321, 241);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -387,7 +388,7 @@
             // buttonShowFinalDecision
             // 
             this.buttonShowFinalDecision.Location = new System.Drawing.Point(911, 155);
-            this.buttonShowFinalDecision.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonShowFinalDecision.Margin = new System.Windows.Forms.Padding(2);
             this.buttonShowFinalDecision.Name = "buttonShowFinalDecision";
             this.buttonShowFinalDecision.Size = new System.Drawing.Size(121, 31);
             this.buttonShowFinalDecision.TabIndex = 30;
@@ -405,7 +406,7 @@
             // buttonSaveFingerprint
             // 
             this.buttonSaveFingerprint.Location = new System.Drawing.Point(662, 155);
-            this.buttonSaveFingerprint.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonSaveFingerprint.Margin = new System.Windows.Forms.Padding(2);
             this.buttonSaveFingerprint.Name = "buttonSaveFingerprint";
             this.buttonSaveFingerprint.Size = new System.Drawing.Size(121, 31);
             this.buttonSaveFingerprint.TabIndex = 32;
@@ -416,7 +417,7 @@
             // buttonChooseFinger
             // 
             this.buttonChooseFinger.Location = new System.Drawing.Point(787, 155);
-            this.buttonChooseFinger.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonChooseFinger.Margin = new System.Windows.Forms.Padding(2);
             this.buttonChooseFinger.Name = "buttonChooseFinger";
             this.buttonChooseFinger.Size = new System.Drawing.Size(121, 31);
             this.buttonChooseFinger.TabIndex = 33;
@@ -434,11 +435,22 @@
             this.btn_Test.UseVisualStyleBackColor = true;
             this.btn_Test.Click += new System.EventHandler(this.btn_Test_Click);
             // 
+            // btn_Extract_Single
+            // 
+            this.btn_Extract_Single.Location = new System.Drawing.Point(415, 110);
+            this.btn_Extract_Single.Name = "btn_Extract_Single";
+            this.btn_Extract_Single.Size = new System.Drawing.Size(119, 26);
+            this.btn_Extract_Single.TabIndex = 35;
+            this.btn_Extract_Single.Text = "Single";
+            this.btn_Extract_Single.UseVisualStyleBackColor = true;
+            this.btn_Extract_Single.Click += new System.EventHandler(this.btn_Extract_Single_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(908, 482);
+            this.Controls.Add(this.btn_Extract_Single);
             this.Controls.Add(this.btn_Test);
             this.Controls.Add(this.buttonChooseFinger);
             this.Controls.Add(this.buttonSaveFingerprint);
@@ -474,7 +486,7 @@
             this.Controls.Add(this.labelFormTitle);
             this.Controls.Add(this.textBoxEmployeeNumber);
             this.Controls.Add(this.labelEmployeeNumber);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Attendance System";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLeftImage)).EndInit();
@@ -522,6 +534,7 @@
         private System.Windows.Forms.Button buttonSaveFingerprint;
         private System.Windows.Forms.Button buttonChooseFinger;
         private System.Windows.Forms.Button btn_Test;
+        private System.Windows.Forms.Button btn_Extract_Single;
     }
 }
 

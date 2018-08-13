@@ -421,7 +421,7 @@ namespace BPPT_Iris_SDK
             {
                 for (int y = 0; y < pgm.Size.Height; y++)
                 {
-                    int gray = pgm.Pixels[y, x];
+                    int gray = (byte) pgm.Pixels[y, x];
                     Pen pen = new Pen(Color.FromArgb(gray, gray, gray), 1);
                     g.DrawRectangle(pen, x, y, 1, 1);
                 }

@@ -1316,11 +1316,20 @@ namespace Testing
             for (int i = 7; i <= 7; i++)
             {
                 string angka = i.ToString("D3");
-                
+
                 //string coba = "D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\01_left.png";
                 //Console.WriteLine(coba);
-                theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\01_left.png"));
-                Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris_Enroll_Result\\percobaan_" + angka + "_l1.iris");
+                //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\01_left.png"));
+                //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris_Enroll_Result\\percobaan_" + angka + "_l1_patokan.iris");
+                //string path_coba = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Triwulan IV - 2017\1000Iris\Iris-PNG\000017_1_LEFT_IRIS.png";
+
+                //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\BLU Kemendagri 2017\\left-iris.png"));
+                //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\BLU Kemendagri 2017\\left-iris_GT.iris");
+
+                //theIrisCode = etr.doExtract(new Bitmap(path_coba));
+                //Save(IrisTemplate.Export(theIrisCode), @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Triwulan IV - 2017\ExtractIris1000\LEFT\000017_1_LEFT_IRIS_banding.iris");
+
+
                 //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\02_left.png"));
                 //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris_Enroll_Result\\percobaan_" + angka + "_l2.iris");
                 //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\01_right.png"));
@@ -1328,6 +1337,98 @@ namespace Testing
                 //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris\\" + angka + "\\02_right.png"));
                 //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\Pengembangan Sistem Biometrik\\Iris_Enroll_Result\\percobaan_" + angka + "_r2.iris");
             }
+
+            string base_target = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Triwulan IV - 2017";
+            string dest_target = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Triwulan III - 2018";
+            string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Triwulan IV - 2017\1000Iris\LIST_1000.csv";
+
+            //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\BLU Kemendagri 2017\\left-iris.png"));
+            //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\BLU Kemendagri 2017\\left-iris_daritest.iris");
+
+            int counter = 0;
+            string line;
+
+            // Read the file and display it line by line.  
+            StreamReader file = new StreamReader(file_to_read);
+            while ((line = file.ReadLine()) != null)
+            {
+                if (line[0] == '0' && counter >= 814)
+                //if (line[0] == '0')
+                {
+                    string left1 = base_target + "\\1000Iris\\Iris-PNG\\" + line + "1_LEFT_IRIS.png";
+                    string left2 = base_target + "\\1000Iris\\Iris-PNG\\" + line + "2_LEFT_IRIS.png";
+                    string right1 = base_target + "\\1000Iris\\Iris-PNG\\" + line + "1_RIGHT_IRIS.png";
+                    string right2 = base_target + "\\1000Iris\\Iris-PNG\\" + line + "2_RIGHT_IRIS.png";
+
+                    Console.WriteLine("Counter : " + counter);
+                    //Console.WriteLine(left1);
+                    //Console.WriteLine(left2);
+                    //Console.WriteLine(right1);
+                    //Console.WriteLine(right2);
+
+                    if (File.Exists(left1))
+                    {
+                        try
+                        {
+                            Console.WriteLine(left1);
+                            theIrisCode = etr.doExtract(new Bitmap(left1));
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\LEFT\\" + line + "1_LEFT_IRIS_2018.iris");
+                        }
+                        catch (IrisException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                    }
+                    if (File.Exists(left2))
+                    {
+                        try
+                        {
+                            Console.WriteLine(left2);
+                            theIrisCode = etr.doExtract(new Bitmap(left2));
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\LEFT\\" + line + "2_LEFT_IRIS_2018.iris");
+                        }
+                        catch (IrisException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                    }
+                    if (File.Exists(right1))
+                    {
+                        try
+                        {
+                            Console.WriteLine(right1);
+                            theIrisCode = etr.doExtract(new Bitmap(right1));
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\RIGHT\\" + line + "1_RIGHT_IRIS_2018.iris");
+                        }
+                        catch (IrisException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                    }
+                    if (File.Exists(right2))
+                    {
+                        try
+                        {
+                            Console.WriteLine(right2);
+                            theIrisCode = etr.doExtract(new Bitmap(right2));
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\RIGHT\\" + line + "2_RIGHT_IRIS_2018.iris");
+                        }
+                        catch (IrisException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                    }
+
+                }
+
+                //Console.WriteLine(line);
+                counter++;
+            }
+
+            file.Close();
+            Console.WriteLine("There were {0} lines.", counter);
+            // Suspend the screen.  
+            Console.ReadLine();
 
             //theIrisCode = etr.doExtract(new Bitmap("D:\\Tugas PTIK\\Biometrik\\Iris\\005\\01_left.png"));
             //Save(IrisTemplate.Export(theIrisCode), "D:\\Tugas PTIK\\Biometrik\\Iris_Enroll_Result\\percobaan_05_l1.iris");
@@ -1372,6 +1473,20 @@ namespace Testing
             {
                 labelFinalDecision.Text = "Rejected";
             }
+        }
+
+        private void btn_Extract_Single_Click(object sender, EventArgs e)
+        {
+            string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengujian Sistem Biometrik\rawdata\9171024101910005_LEFT_IRIS.png";
+
+            //string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris_Enroll_Result\tes_055\left.png";
+
+            Extract etr = new Extract();
+            IrisCode theIrisCode = null;
+
+            theIrisCode = etr.doExtract(new Bitmap(file_to_read));
+
+            Save(IrisTemplate.Export(theIrisCode), @"D:\Tugas PTIK\Biometrik\Pengujian Sistem Biometrik\rawdata\9171024101910005_LEFT_IRIS.iris");
         }
 
         private void ShowFinalDecisionUsingOr()

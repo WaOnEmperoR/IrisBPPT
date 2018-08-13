@@ -22,3 +22,9 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.dll
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.pdb
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\SourceAFIS\obj\Release\SourceAFIS.csprojResolveAssemblyReference.cache

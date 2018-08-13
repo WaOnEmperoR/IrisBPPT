@@ -45,3 +45,18 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BiometriBPPT\bin\Release\pango-sharp.pdb
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BiometriBPPT\obj\Release\BiometriBPPT.dll
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\BiometriBPPT\obj\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\gtk-sharp.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\glib-sharp.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\atk-sharp.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\gdk-sharp.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\pango-sharp.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\glib-sharp.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\atk-sharp.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\gdk-sharp.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\bin\Release\pango-sharp.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\obj\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\obj\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\BiometriBPPT\obj\Release\BiometriBPPT.csprojResolveAssemblyReference.cache

@@ -100,3 +100,19 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe.config
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\BPPTAfis.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\FutronicDrv.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\Neurotec.Gui.BusyForm.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.MainForm.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\MainApplication.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\FutronicApplication\obj\x86\Release\FutronicApplication.pdb

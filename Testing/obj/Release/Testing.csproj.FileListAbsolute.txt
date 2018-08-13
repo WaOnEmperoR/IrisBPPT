@@ -120,3 +120,27 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.exe
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\Testing\obj\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\Testing.exe.config
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\libMobileEyes.Net.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BPPT_Iris_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\bin\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.Form1.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.Form2.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.frmCapture.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\Testing\obj\Release\Testing.csproj.GenerateResource.Cache

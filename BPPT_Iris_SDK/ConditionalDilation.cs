@@ -21,7 +21,7 @@ namespace BPPT_Iris_SDK
             return Math.Sqrt((sobel1 * sobel1) + (sobel2 * sobel2));
         }
 
-        public static void dilationContour(int[,] temp_pixel, int[,] pixel2, int iteration, int width_center, int height_center, double threshold, String type, string folderResult)
+        public static void dilationContour(int[,] temp_pixel, int[,] pixel2, int iteration, int width_center, int height_center, double threshold, String type, string folderResult, int[,] pixel_analysis)
         {
             PGM_Iris pgmWriter;
             PGM_Iris g_Pgm = new PGM_Iris(folderResult + "\\ori_contrast_stretching.pgm");
@@ -33,7 +33,14 @@ namespace BPPT_Iris_SDK
             int[,] temp_pixel3 = new int[g_ImageHeight, g_ImageWidth];
 
             int[,] temp_pixel4 = g_Pgm.Pixels;
+            
+            int min_pos_x = 0;
+            int max_pos_x = 0;
+            int min_pos_y = 0;
+            int max_pos_y = 0;
 
+            //Console.WriteLine(type);
+            
             int lim1 = 0;
             int lim2 = 0;
             if (string.Equals(type, "iris", StringComparison.OrdinalIgnoreCase))
@@ -51,10 +58,44 @@ namespace BPPT_Iris_SDK
                 lim2 = 50;
             }
 
-            int min_pos_x = 0;
-            int max_pos_x = 0;
-            int min_pos_y = 0;
-            int max_pos_y = 0;
+            int i_loop = height_center;
+            int j_loop = width_center;
+            int loop_counter = 0;
+
+            while (gradMag(temp_pixel, i_loop, j_loop) > threshold)
+            {
+                if ((loop_counter & 1) == 0)
+                    i_loop++;
+                else
+                    j_loop++;
+
+                loop_counter++;
+            }
+
+            height_center = i_loop;
+            width_center = j_loop;
+
+            for (int i = 10; i < g_ImageHeight - 10; i++)
+            {
+                for (int j = 10; j < g_ImageWidth - 10; j++)
+                {
+                    if (temp_pixel2[i, j] == 128)
+                    {
+                        //Console.WriteLine(i + " - " + j);
+                        //Console.WriteLine(gradMag(temp_pixel, i, j));
+
+                        for (int k = i - 1; k <= i + 1; k++)
+                        {
+                            for (int l = j - 1; l <= j + 1; l++)
+                            {
+                                //Console.Write(temp_pixel[k, l] + " ");
+                            }
+                            //Console.WriteLine();
+                        }
+                    }
+                }
+            }
+
             for (int l = 0; l < iteration; l++)
             {
                 for (int i = 10; i < g_ImageHeight - 10; i++)
@@ -105,6 +146,7 @@ namespace BPPT_Iris_SDK
                     for (int j = 0; j < g_ImageWidth; j++)
                     {
                         temp_pixel2[i, j] = temp_pixel3[i, j];
+                        pixel_analysis[i, j] = temp_pixel3[i, j];
                     }
                 }
 
@@ -190,6 +232,7 @@ namespace BPPT_Iris_SDK
                     }
                 }
             }
+
 
         }
 

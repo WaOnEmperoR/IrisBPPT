@@ -94,3 +94,30 @@ D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\Ir
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.csproj.GenerateResource.Cache
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.exe
 D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris per Defi June 2015\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\AttendanceSystem.exe.config
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\AttendanceSystem.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\AttendanceSystem.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\AForge.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\AForge.Imaging.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BiometriBPPT.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BPPT_Iris_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\FutronicDrv.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\libMobileEyes.Net.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\SourceAFIS.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\Testing.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\Mono.Cairo.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BPPT_IC_SDK.dll
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\FutronicApplication.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BiometriBPPT.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BPPT_Iris_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\Testing.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\SourceAFIS.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\SourceAFIS.xml
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\BPPT_IC_SDK.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\bin\x86\Release\FutronicApplication.pdb
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.csprojResolveAssemblyReference.cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.AttendanceSystem.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.Properties.Resources.resources
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.csproj.GenerateResource.Cache
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.exe
+D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Development Place\IrisBPPT\AttendanceSystem\obj\x86\Release\AttendanceSystem.pdb

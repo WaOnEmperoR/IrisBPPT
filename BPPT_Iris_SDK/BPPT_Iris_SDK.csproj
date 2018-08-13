@@ -69,6 +69,7 @@
     <Compile Include="ImageRepresentation_Import.cs" />
     <Compile Include="IntensityTransformation.cs" />
     <Compile Include="IrisCode.cs" />
+    <Compile Include="IrisException.cs" />
     <Compile Include="IrisTemplate.cs" />
     <Compile Include="Matching.cs" />
     <Compile Include="Otsu.cs" />

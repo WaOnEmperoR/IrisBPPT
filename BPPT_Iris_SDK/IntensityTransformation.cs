@@ -114,8 +114,12 @@ namespace BPPT_Iris_SDK
             for (i = 0; i < 256; i++)
                 histo[i] = 0;
 
+            //Console.WriteLine(pixels.GetLength(0));
+            //Console.WriteLine(pixels.GetLength(1));
+
             for (j = 0; j < pixels.GetLength(0); j++)
             {
+                //Console.WriteLine("Jeh : " + j);
                 for (i = 0; i < pixels.GetLength(1); i++)
                 {
                     histo[pixels[j, i]]++;
