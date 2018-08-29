@@ -245,22 +245,29 @@ namespace BPPT_Iris_SDK
 
             ConditionalDilation.dilationContour(g_Pixel2, g_Pixel3, 160, g_PosWidth, g_PosHeight, 20, "pupil", folderResult, pixel_analysis);
 
+            //Console.WriteLine("Initial iris point : [" + g_PosHeight2 + "," + g_PosWidth2 + "]");
+            //Console.WriteLine("Initial iris point value : " + pixel_analysis[g_PosHeight2, g_PosWidth2]);
+
             while (pixel_analysis[g_PosHeight2, g_PosWidth2] == 128)
             {
                 g_PosHeight2 += 2;
                 analyzed = true;
+                //Console.WriteLine("Initial iris point : [" + g_PosHeight2 + "," + g_PosWidth2 + "]");               
+                //Console.WriteLine("Initial iris point value : " + pixel_analysis[g_PosHeight2, g_PosWidth2]);
             }
 
             // Ensuring safety
             if (analyzed)
                 g_PosHeight2 += 4;
 
+            //Console.WriteLine("Initial iris point : [" + g_PosHeight2 + "," + g_PosWidth2 + "]");
+            //Console.WriteLine("Initial iris point value : " + pixel_analysis[g_PosHeight2, g_PosWidth2]);
             //Console.WriteLine("Folder Result : " + folderResult);
             //Projection.generateImageInitiatePoint(folderResult + "\\initial_point", g_FilePath);
 
             //stopwatch.Stop();
             //Console.WriteLine("Localization: " + stopwatch.ElapsedMilliseconds.ToString());
-            
+
             for (int i = 0; i < g_ImageHeight; i++)
             {
                 for (int j = 0; j < g_ImageWidth; j++)

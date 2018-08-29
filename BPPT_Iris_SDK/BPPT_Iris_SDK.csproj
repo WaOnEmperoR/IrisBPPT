@@ -54,6 +54,7 @@
     <Compile Include="Extract.cs" />
     <Compile Include="Extract_02.cs" />
     <Compile Include="ExtraProcessing.cs" />
+    <Compile Include="FloodFill.cs" />
     <Compile Include="GaborFilter.cs" />
     <Compile Include="ErotionDilation.cs" />
     <Compile Include="FourierDescriptor.cs" />

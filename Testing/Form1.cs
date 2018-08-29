@@ -1372,7 +1372,7 @@ namespace Testing
                         {
                             Console.WriteLine(left1);
                             theIrisCode = etr.doExtract(new Bitmap(left1));
-                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\LEFT\\" + line + "1_LEFT_IRIS_2018.iris");
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000_NEW\\LEFT\\" + line + "1_LEFT_IRIS_2018.iris");
                         }
                         catch (IrisException ex)
                         {
@@ -1385,7 +1385,7 @@ namespace Testing
                         {
                             Console.WriteLine(left2);
                             theIrisCode = etr.doExtract(new Bitmap(left2));
-                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\LEFT\\" + line + "2_LEFT_IRIS_2018.iris");
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000_NEW\\LEFT\\" + line + "2_LEFT_IRIS_2018.iris");
                         }
                         catch (IrisException ex)
                         {
@@ -1398,7 +1398,7 @@ namespace Testing
                         {
                             Console.WriteLine(right1);
                             theIrisCode = etr.doExtract(new Bitmap(right1));
-                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\RIGHT\\" + line + "1_RIGHT_IRIS_2018.iris");
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000_NEW\\RIGHT\\" + line + "1_RIGHT_IRIS_2018.iris");
                         }
                         catch (IrisException ex)
                         {
@@ -1411,7 +1411,7 @@ namespace Testing
                         {
                             Console.WriteLine(right2);
                             theIrisCode = etr.doExtract(new Bitmap(right2));
-                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000\\RIGHT\\" + line + "2_RIGHT_IRIS_2018.iris");
+                            Save(IrisTemplate.Export(theIrisCode), dest_target + "\\ExtractIris1000_NEW\\RIGHT\\" + line + "2_RIGHT_IRIS_2018.iris");
                         }
                         catch (IrisException ex)
                         {
@@ -1477,7 +1477,7 @@ namespace Testing
 
         private void btn_Extract_Single_Click(object sender, EventArgs e)
         {
-            string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengujian Sistem Biometrik\rawdata\9171024101910005_LEFT_IRIS.png";
+            string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengujian Sistem Biometrik\rawdata\9271052602870001_RIGHT_IRIS.png";
 
             //string file_to_read = @"D:\Tugas PTIK\Biometrik\Pengembangan Sistem Biometrik\Iris_Enroll_Result\tes_055\left.png";
 

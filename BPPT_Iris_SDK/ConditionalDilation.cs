@@ -40,11 +40,32 @@ namespace BPPT_Iris_SDK
             int max_pos_y = 0;
 
             //Console.WriteLine(type);
-            
+                        
             int lim1 = 0;
             int lim2 = 0;
             if (string.Equals(type, "iris", StringComparison.OrdinalIgnoreCase))
             {
+                int i_loop = height_center;
+                int j_loop = width_center;
+                int loop_counter = 0;
+
+                while (gradMag(temp_pixel, i_loop, j_loop) > threshold)
+                {
+                    //i_loop++;
+                    if ((loop_counter & 1) == 0)
+                        i_loop++;
+                    else
+                        j_loop++;
+
+                    //Console.WriteLine("Initial iris point : " + "[" + i_loop + "," + j_loop + "]");
+                    //Console.WriteLine("Gradient Magnitude : " + gradMag(temp_pixel, i_loop, j_loop));
+                    
+                    loop_counter++;
+                }
+
+                height_center = i_loop;
+                width_center = j_loop;
+
                 temp_pixel2[height_center, width_center] = 128;
                 threshold = 45;
                 lim1 = 0;
@@ -57,53 +78,47 @@ namespace BPPT_Iris_SDK
                 lim1 = 0;
                 lim2 = 50;
             }
+                       
 
-            int i_loop = height_center;
-            int j_loop = width_center;
-            int loop_counter = 0;
+            //for (int i = 10; i < g_ImageHeight - 10; i++)
+            //{
+            //    for (int j = 10; j < g_ImageWidth - 10; j++)
+            //    {
+            //        if (temp_pixel2[i, j] == 128)
+            //        {
+            //            Console.WriteLine(type + " : " + i + " - " + j);
+            //            Console.WriteLine("Gradient Magnitude : " + gradMag(temp_pixel, i, j));
 
-            while (gradMag(temp_pixel, i_loop, j_loop) > threshold)
-            {
-                if ((loop_counter & 1) == 0)
-                    i_loop++;
-                else
-                    j_loop++;
-
-                loop_counter++;
-            }
-
-            height_center = i_loop;
-            width_center = j_loop;
-
-            for (int i = 10; i < g_ImageHeight - 10; i++)
-            {
-                for (int j = 10; j < g_ImageWidth - 10; j++)
-                {
-                    if (temp_pixel2[i, j] == 128)
-                    {
-                        //Console.WriteLine(i + " - " + j);
-                        //Console.WriteLine(gradMag(temp_pixel, i, j));
-
-                        for (int k = i - 1; k <= i + 1; k++)
-                        {
-                            for (int l = j - 1; l <= j + 1; l++)
-                            {
-                                //Console.Write(temp_pixel[k, l] + " ");
-                            }
-                            //Console.WriteLine();
-                        }
-                    }
-                }
-            }
+            //            for (int k = i - 1; k <= i + 1; k++)
+            //            {
+            //                for (int l = j - 1; l <= j + 1; l++)
+            //                {
+            //                    Console.Write(temp_pixel[k, l] + " ");
+            //                }
+            //                Console.WriteLine();
+            //            }
+            //        }
+            //    }
+            //}
 
             for (int l = 0; l < iteration; l++)
             {
+                //Console.WriteLine("Iteration : " + l);
                 for (int i = 10; i < g_ImageHeight - 10; i++)
                 {
                     for (int j = 10; j < g_ImageWidth - 10; j++)
                     {
+                        int pixel_value = temp_pixel2[i, j];
+                        double my_magnitude = gradMag(temp_pixel, i, j);
+                        double distance_to_center = distanceCenter(i, j, height_center, width_center);
 
-                        if (temp_pixel2[i, j] == 128 && gradMag(temp_pixel, i, j) <= threshold && (distanceCenter(i, j, height_center, width_center) >= lim1 && distanceCenter(i, j, height_center, width_center) < lim2))
+                        //if (i == height_center && j == width_center)
+                        //{
+                        //    Console.WriteLine(pixel_value);
+                        //    Console.WriteLine(my_magnitude);
+                        //    Console.WriteLine(distance_to_center);
+                        //}
+                        if (pixel_value == 128 && my_magnitude <= threshold && (distance_to_center >= lim1 && distance_to_center < lim2))
                         {
                             //if (temp_pixel2[i][j] == 128 && gradMag(temp_pixel, i, j) <= threshold) {
                             temp_pixel3[i - 1, j - 1] = 128;
